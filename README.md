@@ -1,1 +1,1 @@
-# Web-Design-Challenge
+The Web-Design-Challenge consisted of using HTML and CSS to create a dashboard from previous course analysis. In building this dashboard, I created individual pages for each plot and a means by which you can navigate between them. These pages will contain the visualizations and their corresponding explanations. You'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
